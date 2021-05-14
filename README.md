@@ -11,8 +11,8 @@ Output Format:
 
 3. :Lst the 'user id' and 'rating' of users that reviewed businesses which are located in “Stanford”
 
-4:
-List the business_ID, full address, and categories of the Top 10 businesses using the average ratings 
+4:List the business_ID, full address, and categories of the Top 10 businesses using the average ratings 
+
 5. For each category, find total number of business counts.
-6. Find top 10 categories which have the most business count
-7. construct inverted index as  <word, line number> pairs
+6.  Find top 10 categories which have the most business count.
+7.   construct inverted index as  <word, line number> pairs
